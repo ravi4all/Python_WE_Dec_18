@@ -1,0 +1,4 @@
+1. Create dataset
+=> movies = [{'action':[],'comedy':[]}]
+2. Fetch the category which has most common movies for both users
+3. Recommend those movies to user_2 which user_2 has not watched yet and the category is we find in step_2
